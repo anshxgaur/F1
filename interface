@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Interface | Gemini Design</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="container">
+            <div class="logo">Brand<span>Name</span></div>
+            <nav>
+                <ul>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#" class="btn-primary">Get Started</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Build interfaces that <strong>matter.</strong></h1>
+                <p>A clean, functional foundation for your next big project.</p>
+                <div class="cta-group">
+                    <button class="btn-main">View Documentation</button>
+                    <button class="btn-secondary">Learn More</button>
+                </div>
+            </div>
+        </section>
+
+        <section id="features" class="grid-section">
+            <div class="container">
+                <div class="card">
+                    <div class="icon">🚀</div>
+                    <h3>Fast Performance</h3>
+                    <p>Optimized code ensures your users aren't kept waiting.</p>
+                </div>
+                <div class="card">
+                    <div class="icon">📱</div>
+                    <h3>Responsive</h3>
+                    <p>Looks great on desktops, tablets, and phones alike.</p>
+                </div>
+                <div class="card">
+                    <div class="icon">🎨</div>
+                    <h3>Clean Design</h3>
+                    <p>Focus on what's important: your content.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Your Company. Built with precision.</p>
+    </footer>
+
+</body>
+</html>
