@@ -27,14 +27,6 @@
 
 ---
 
-<div align="center">
-
-![Race Start GIF](https://media.giphy.com/media/3o7TKqnN349PBUtGFy/giphy.gif)
-
-</div>
-
----
-
 ## 🔴 TABLE OF CONTENTS
 
 ```
