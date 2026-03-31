@@ -395,12 +395,6 @@ FASTF1_CACHE_DIR=./cache
 
 ---
 
-<div align="center">
-
-![Checkered Flag GIF](https://media.giphy.com/media/3ohhwG4BtZNQHh9OOk/giphy.gif)
-
-<br/>
-
 **⬛🔴⬛ TEAM NOVA · F1 PERFORMANCE TRACKING SYSTEM · TRACK 01 · SPECIAL CATEGORY ⬛🔴⬛**
 
 <br/>
