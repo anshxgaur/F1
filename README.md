@@ -369,6 +369,11 @@ FASTF1_CACHE_DIR=./cache
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100axe001-E10600?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/100axe001)
+[![GitHub](https://img.shields.io/badge/GitHub-100axe001-E10600?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/AnkitShukla-arch)
+[![GitHub](https://img.shields.io/badge/GitHub-100axe001-E10600?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/anshxgaur)
+[![GitHub](https://img.shields.io/badge/GitHub-100axe001-E10600?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ananya6042-rgb)
+
+
 
 </div>
 
