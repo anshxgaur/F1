@@ -5,12 +5,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=A+race+can+be+won+or+lost+in+a+pit+lane;Data+is+what+turns+a+gamble+into+startegy" alt="Typing SVG">
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ██                                                        ██ -->
-<!-- ██         F1 PERFORMANCE TRACKING SYSTEM                ██ -->
-<!-- ██              POWERED BY TEAM NOVA                     ██ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
 ![F1 Audi Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
