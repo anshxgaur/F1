@@ -385,20 +385,8 @@ FASTF1_CACHE_DIR=./cache
      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝      ╚═╝
 ```
 
-**Formula 1 Track — Special Category**
 
-*"Build solutions inspired directly by Formula 1 and motorsports technology."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=Made+with+❤️+and+a+lot+of+Lap+data" alt="Typing SVG">
+</p>
 
-**Projects built in this track will receive special priority.**
-
-</div>
-
----
-
-**⬛🔴⬛ TEAM NOVA · F1 PERFORMANCE TRACKING SYSTEM · TRACK 01 · SPECIAL CATEGORY ⬛🔴⬛**
-
-<br/>
-
-*Made with ❤️ and a lot of lap data*
-
-</div>
