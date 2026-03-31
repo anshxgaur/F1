@@ -4,9 +4,7 @@
 <!-- ██              POWERED BY TEAM NOVA                     ██ -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<div align="center">
-
-![F1 Audi Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![](Bottom_up.svg)
 
 <br/>
 
