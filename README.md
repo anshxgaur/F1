@@ -1,14 +1,7 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ██                                                        ██ -->
-<!-- ██         F1 PERFORMANCE TRACKING SYSTEM                ██ -->
-<!-- ██              POWERED BY TEAM NOVA                     ██ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
 ![](Bottom_up.svg)
 
 <br/>
 
-# 🏎️ F1 PERFORMANCE TRACKING SYSTEM
 
 ### *"A race can be won or lost in the pit lane. Data is what turns a gamble into a strategy."*
 
