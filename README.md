@@ -5,30 +5,51 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=A+race+can+be+won+or+lost+in+a+pit+lane;Data+is+what+turns+a+gamble+into+startegy" alt="Typing SVG">
-</p>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ██                                                        ██ -->
+<!-- ██         F1 PERFORMANCE TRACKING SYSTEM                ██ -->
+<!-- ██              POWERED BY TEAM NOVA                     ██ -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+![F1 Audi Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+<br/>
+
+# 🏎️ F1 PERFORMANCE TRACKING SYSTEM
+
+### *"A race can be won or lost in the pit lane. Data is what turns a gamble into a strategy."*
+
+<br/>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/anshxgaur/F1?color=ffffff&labelColor=1a1a1a&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 
+<br/>
+
+```
+ ██████╗  █████╗ ████████╗ █████╗      ██╗███████╗    ██╗   ██╗███╗   ██╗██╗      ██████╗  ██████╗██╗  ██╗███████╗██████╗ 
+ ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗     ██║██╔════╝    ██║   ██║████╗  ██║██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+ ██║  ██║███████║   ██║   ███████║     ██║███████╗    ██║   ██║██╔██╗ ██║██║     ██║   ██║██║     █████╔╝ █████╗  ██║  ██║
+ ██║  ██║██╔══██║   ██║   ██╔══██║     ██║╚════██║    ██║   ██║██║╚██╗██║██║     ██║   ██║██║     ██╔═██╗ ██╔══╝  ██║  ██║
+ ██████╔╝██║  ██║   ██║   ██║  ██║     ██║███████║    ╚██████╔╝██║ ╚████║███████╗╚██████╔╝╚██████╗██║  ██╗███████╗██████╔╝
+ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝     ╚═╝╚══════╝     ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+```
+
 </div>
 
-<hr />
-
+---
 
 <div align="center">
-```
-  
-  ████████╗██████╗  █████╗  ██████╗██╗  ██╗    ███████╗ ██╗
-  ╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝    ██╔════╝███║
-     ██║   ██████╔╝███████║██║     █████╔╝     █████╗  ╚██║
-     ██║   ██╔══██╗██╔══██║██║     ██╔═██╗     ██╔══╝   ██║
-     ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗    ██║      ██║
-          
-```
 
+![Race Start GIF](https://media.giphy.com/media/3o7TKqnN349PBUtGFy/giphy.gif)
 
+</div>
+
+---
 
 ## 🔴 TABLE OF CONTENTS
 
@@ -43,8 +64,7 @@
   08 ── API Reference
   09 ── Data Pipeline
   10 ── Team NOVA
-
-
+```
 
 ---
 
@@ -379,7 +399,20 @@ FASTF1_CACHE_DIR=./cache
 
 ---
 
+## 📜 BUILT FOR
 
+<div align="center">
+
+```
+  ████████╗██████╗  █████╗  ██████╗██╗  ██╗    ███████╗ ██╗
+  ╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝    ██╔════╝███║
+     ██║   ██████╔╝███████║██║     █████╔╝     █████╗  ╚██║
+     ██║   ██╔══██╗██╔══██║██║     ██╔═██╗     ██╔══╝   ██║
+     ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗    ██║      ██║
+     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝      ╚═╝
+```
+
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=Made+with+❤️+and+a+lot+of+Lap+data" alt="Typing SVG">
 </p>
