@@ -1,33 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="1000" height="300" viewBox="0 0 854 200">
     <style>
         .title {
-            font-size: 64px;
-            font-weight: 800;
-            font-family: 'Segoe UI', 'Arial Narrow', 'Arial', sans-serif;
+            font-size: 62px;
+            font-weight: 900;
+            font-style: italic;
+            font-family: 'Impact', 'Arial Black', 'Georgia', serif;
             fill: #ffffff;
-            stroke: #000000;
-            stroke-width: 2px;
-            letter-spacing: 1.5px;
-        }
-        .desc {
-            font-size: 30px;
-            font-weight: 700;
-            font-family: 'Segoe UI', 'Arial Narrow', sans-serif;
-            fill: #ffffff;
-            stroke: #000000;
-            stroke-width: 1.5px;
+            paint-order: stroke fill;
+            stroke: none;
+            letter-spacing: 1px;
         }
     </style>
 
     <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
         <defs>
-            <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#B90000"/>
+            earGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#CC0000"/>
+                <stop offset="50%" stop-color="#FF2800"/>
                 <stop offset="100%" stop-color="#FF0000"/>
             </linearGradient>
         </defs>
 
-        <path d="" fill="url(#linear)" opacity="0.4">
+        <path d="" fill="url(#linear)" opacity="0.5">
             <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline"
                      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
                      values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;
@@ -36,7 +30,7 @@
                              M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
             </animate>
         </path>
-        <path d="" fill="url(#linear)" opacity="0.4">
+        <path d="" fill="url(#linear)" opacity="0.5">
             <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline"
                      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s"
                      values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;
@@ -47,15 +41,7 @@
         </path>
     </g>
 
-    <!-- Main title -->
-    <text text-anchor="middle" x="50%" y="45%" class="title">
+    <text text-anchor="middle" x="50%" y="48%" class="title">
         F1 Analytics Platform
     </text>
-
-    <!-- Optional smaller subtitle (uncomment if you want) -->
-    <!--
-    <text text-anchor="middle" x="50%" y="70%" class="desc" fill="#ffffff" stroke="#000000" stroke-width="1.5">
-        Performance Insights for Your F1 Pipeline
-    </text>
-    -->
 </svg>
