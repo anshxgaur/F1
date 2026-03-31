@@ -7,16 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=A+race+can+be+won+or+lost+in+a+pit+lane;Data+is+what+turns+a+gamble+into+startegy" alt="Typing SVG">
 <div align="center">
 
-![F1 Audi Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-<br/>
-
-# 🏎️ F1 PERFORMANCE TRACKING SYSTEM
-
-### *"A race can be won or lost in the pit lane. Data is what turns a gamble into a strategy."*
-
-<br/>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/anshxgaur/F1?color=ffffff&labelColor=1a1a1a&style=for-the-badge)
