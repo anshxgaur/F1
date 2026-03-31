@@ -1,4 +1,6 @@
 ![](Bottom_up.svg)
+<div align="center">
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=650&size=40&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=1000&lines=A+race+can+be+won+or+lost+in+a+pit+lane;Data+is+what+turns+a+gamble+into+startegy" alt="Typing SVG">
@@ -9,7 +11,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/anshxgaur/F1?color=ffffff&labelColor=1a1a1a&style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/anshxgaur/F1?color=E10600&labelColor=1a1a1a&style=for-the-badge)
 
-<br/>
+</div>
+
+<hr />
+
 
 
 ```
